@@ -73,10 +73,12 @@ http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf
 ### 	x86* and x86
 
 <dl>
+  ```
   <dt>x86*, arg	::==</dt>
   <dd>		int | var | reg </dd>
   <dt>x86, arg 	::==</dt>
   <dd>		int | reg | (reg, offset) </dd>
+  ```
 </dl>
 
 #### x86, instr
